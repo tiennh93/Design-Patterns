@@ -4,6 +4,22 @@ Xin chào và cảm ơn bạn đã ghé thăm repository của tôi - nơi chia 
 
 Repository này được tạo ra với mục đích chia sẻ miễn phí kiến thức về các mẫu thiết kế phần mềm (Design Patterns) - một lĩnh vực thiết yếu và thách thức trong ngành lập trình. Tôi mong muốn mang đến cho cộng đồng lập trình Việt Nam một nguồn tài liệu tham khảo đáng giá, giúp cải thiện kỹ năng phân tích và thiết kế phần mềm.
 
+**Design Pattern - "Vũ Khí" Của Bạn Trong Kỷ Nguyên AI (2026)**
+
+Thú thật đi, năm 2026 rồi, ai trong chúng ta cũng đều có bên cạnh những trợ thủ AI đắc lực như Copilot hay Gemini. Chúng code nhanh hơn, nhớ cú pháp chuẩn hơn bất kỳ lập trình viên lão luyện nào.
+
+*Vậy... chúng ta còn học Design Pattern để làm gì?*
+
+Hãy tưởng tượng AI giống như một đội công nhân xây dựng cần mẫn và siêu tốc. Nếu bạn chỉ ra lệnh: "Xây cho tôi cái nhà", chúng sẽ xếp gạch ngẫu nhiên miễn sao thành hình ngôi nhà. Kết quả? Một căn nhà có thể ở được, nhưng **không thể sửa chữa, không thể nâng tầng**, và chỉ cần đập một bức tường là... sập cả mái.
+
+Đó là lúc bạn cần Design Pattern.
+
+Học Design Pattern ngày nay không phải để bạn hì hục ngồi gõ từng dòng code Singleton. **Không!** Bạn học để trở thành **Kiến Trúc Sư (Architect)**.
+- Thay vì làm thợ code dập khuôn, bạn đứng ở vị trí chỉ huy. Bạn ra lệnh cho AI: *"Dùng Strategy Pattern cho luồng thanh toán này"*, *"Chỗ này cần Observer để lắng nghe sự kiện"*...
+- Khi đó, dòng code mà AI sinh ra không còn là những dòng chữ vô hồn "chạy được là may". Nó trở thành một **cỗ máy (Engine)** mạnh mẽ, có cấu trúc chặt chẽ.
+
+Một hệ thống được thiết kế đúng chuẩn OOP sẽ là một **Tài Sản (Asset)** thực sự. Code của bạn viết ra hôm nay có thể tái sử dụng cho 5, 10 dự án sau này. Bạn làm ít đi, nhưng giá trị tạo ra lại lớn hơn gấp bội. Đó mới là đẳng cấp mà chúng ta hướng tới trong kỷ nguyên này.
+
 Trong repository "Sách - Design Pattern Tiếng Việt", bạn sẽ tìm thấy:
 
 - Hiểu rõ hơn về các Design Pattern phổ biến như Singleton, Observer, Strategy, etc.
